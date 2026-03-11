@@ -2,7 +2,9 @@
 
 ## Preview
 
-> _Add a screenshot here once deployed_
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
 
 ## Description
 
