@@ -107,5 +107,5 @@ npm test
 
 ## Contact
 
-- LinkedIn: [seb-oll](https://www.linkedin.com/in/seb-oll-0188133a4/)
+- LinkedIn: [seb-oll](https://www.linkedin.com/in/seb-o-0188133a4/)
 - Email: ateeew@gmail.com
